@@ -2,10 +2,10 @@
 name = "telewater"
 version = "0.1.5.post2"
 description = "A telegram bot that applies watermark on images, gifs and videos."
-authors = ["aahnik <daw@aahnik.dev>"]
+authors = ["aahnik <daw.Oxyver_Owner.dev>"]
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/aahnik/telewater"
+repository = "https://github.com/Oxyver5600/telewater"
 keywords = ["telegram","watermark","bot","async"]
 classifiers = [
     "Topic :: Software Development",
