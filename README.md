@@ -10,7 +10,7 @@ A telegram bot that applies watermark on images, gifs and videos.
 - **No database** connection required.
 - It **does not store media** (photos/videos/gifs) on the server. Media is deleted immediately after the watermarked version is sent to the user.
 
-Watch this [video on YouTube](https://www.youtube.com/watch?v=M-ouyCPdZw0) to learn how to use and deploy this bot.
+Watch this [video on YouTube](https://telegram.me/Enox_hindi_movies_super_hero_all) to learn how to use and deploy this bot.
 
 ## Usage
 
@@ -36,7 +36,7 @@ This application can also be easily deployed to Heroku, which is extremely good 
 
 You may [read further](#further-reading) to learn about more more deployment options.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aahnik/telewater)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Oxyver5600/telewater)
 
 Click on the above button. A form will appear, where you need to enter the credentials for the bot. After the app is deployed sucessfully, [turn on the woker dyno](https://user-images.githubusercontent.com/66209958/117938593-d6de0080-b324-11eb-9c0f-9bcc6d975808.png) to start the bot.
 
@@ -80,12 +80,12 @@ Simply open your terminal and run `telewater`. It will prompt you to enter the r
 
 ## Further reading
 
-- [Environment Variables](https://github.com/aahnik/telewater/wiki/Environment-Variables)
-- [Telewater CLI usage](https://github.com/aahnik/telewater/wiki/Telewater-CLI-usage)
-- [Install and run using docker](https://github.com/aahnik/telewater/wiki/Install-and-run-using-docker)
-- [Deploy to Digital Ocean](https://github.com/aahnik/telewater/wiki/Deploy-to-Digital-Ocean)
-- [Run multiple instances](https://github.com/aahnik/telewater/wiki/Run-multiple-instances)
+- [Environment Variables](https://github.com/Oxyver5600/telewater/wiki/Environment-Variables)
+- [Telewater CLI usage](https://github.com/Oxyver5600/telewater/wiki/Telewater-CLI-usage)
+- [Install and run using docker](https://github.com/Oxyver5600/telewater/wiki/Install-and-run-using-docker)
+- [Deploy to Digital Ocean](https://github.com/Oxyver5600/telewater/wiki/Deploy-to-Digital-Ocean)
+- [Run multiple instances](https://github.com/Oxyver5600/telewater/wiki/Run-multiple-instances)
 
-For any further help, feel free to [create an issue](https://github.com/aahnik/telewater/issues) in the GitHub repo.
+For any further help, feel free to [create an issue](https://github.com/Oxyver5600/telewater/issues) in the GitHub repo.
 
 <!-- AAHNIK 2021 -->
